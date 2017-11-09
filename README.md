@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple application of bus schedule website, use nodeJS as a server, mongoDb as database and angular as frontend framework
+Simple application of bus schedule website, use nodeJS express as a server, mongoDb as database and angular as frontend framework
 
 ## Install
 
